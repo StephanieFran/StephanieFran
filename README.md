@@ -27,7 +27,7 @@
 
 
 ### 🔗📫 How to reach me
-<a href = "www.linkedin.com/in/stephanie-de-franca"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "https://www.linkedin.com/in/stephanie-de-franca"><img src="https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 <a href = "mailto:stephaniefranca015@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 
